@@ -1,4 +1,3 @@
-# 🔔[个人网站](https://whatshub.top)
 ### :balloon:Loon脚本插件收集  
 * #### [插件直装地址](https://whatshub.top/loon)
 * #### [分流规则](https://whatshub.top/rule)
@@ -433,11 +432,4 @@
 
 * [@lowking](https://github.com/lowking/Scripts)
  </details>
-
-|:octocat:机场推荐|:link:链接| :pushpin:套餐价格概况
-|--|--|--|
-|:white_check_mark:飞机云|[:link:官网](https://feijiyun960.com/auth/register?code=iMgM)|14.99元/50G/月，19.99元/100G/月,29.99元/200G/月，39.99元/350G/月,55.99元/600G/月
-|:white_check_mark:魔戒|[:link:官网](https://mojie.app/register?aff=tq2kydAz)|15元130G不限时；42元420G不限时；69元750G不限时
-|:white_check_mark:EMO|[:link:官网](https://yyds.emovpns.top/#/register?code=7KLxhYOS)|0元300G/月；6元1000G/月
-|:white_check_mark:流媒体会员|[:link:购买链接](https://ihezu.gold/r8YMSR)|  
 
