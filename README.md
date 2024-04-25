@@ -1,4 +1,3 @@
-### :balloon:Loon脚本插件收集  
 * #### [插件直装地址](https://whatshub.top/loon)
 * #### [分流规则](https://whatshub.top/rule)
 <details>
